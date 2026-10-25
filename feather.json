@@ -6,20 +6,20 @@
       "name": "gridslot",
       "bundleIdentifier": "hu.nepster.gridslot",
       "developerName": "Nepster",
-      "iconURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.7/icon.png",
+      "iconURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.8/icon.png",
       "localizedDescription": "gridslot - F1 versenynaptar es kezdokepernyo-widget",
       "versions": [
         {
-          "version": "v1.3.7",
-          "date": "2026-10-12T16:50:17+0000",
-          "size": 14255671,
-          "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.7/gridslot.ipa"
+          "version": "v1.3.8",
+          "date": "2026-10-25T10:31:02+0000",
+          "size": 14257373,
+          "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.8/gridslot.ipa"
         }
       ],
-      "size": 14255671,
-      "version": "v1.3.7",
-      "versionDate": "2026-10-12T16:50:17+0000",
-      "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.7/gridslot.ipa"
+      "size": 14257373,
+      "version": "v1.3.8",
+      "versionDate": "2026-10-25T10:31:02+0000",
+      "downloadURL": "https://github.com/Nepsterwasd/GridSlot-Releases/releases/download/v1.3.8/gridslot.ipa"
     }
   ]
 }
